@@ -1,0 +1,37 @@
+{
+  "personal": [
+    {
+      "fullname": "Sumit Sharma",
+      "gender": "Male",
+      "age": "28",
+      "mobile": "9988776655",
+      "email": "sum@mit.com",
+      "password": "1235",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "cityname": "Bangalore",
+      "address": "Bellandur",
+      "id": 1
+    }
+  ],
+  "education": [
+    {
+      "tenMark": "84",
+      "tweMarks": "86",
+      "HEM": "70",
+      "HE": "B.Tech",
+      "PY": "2019",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "experience": "4 year",
+      "skills": "React , Redux",
+      "id": 1
+    }
+  ]
+}

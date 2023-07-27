@@ -1,0 +1,56 @@
+{
+  "details": [
+    {
+      "firstname": "Sumit ",
+      "lastname": "Sharma",
+      "mobileNo": "9988776655",
+      "emailId": "abc@abc.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "fulladdress": "mahadevpura,",
+      "pincode": "110099",
+      "state": "Bangalore",
+      "district": "District1",
+      "id": 1
+    },
+    {
+      "firstname": "Raman",
+      "lastname": "Kumar",
+      "mobileNo": "8877665544",
+      "emailId": "ramn@man.com",
+      "password": "1233",
+      "confirmpassword": "1233",
+      "fulladdress": "Rohini",
+      "pincode": "110077",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "id": 2
+    },
+    {
+      "firstname": "Rakesh",
+      "lastname": "Kumar",
+      "mobileNo": "9988776655",
+      "emailId": "abc@abc.com",
+      "password": "123456789",
+      "confirmpassword": "123456789",
+      "fulladdress": "Kamdhenu Nagar",
+      "pincode": "560016",
+      "state": "Karnataka",
+      "district": "Bangalore",
+      "id": 3
+    },
+    {
+      "firstname": "Kamal",
+      "lastname": "Kumar",
+      "mobileNo": "1234566778",
+      "emailId": "kam@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "fulladdress": "abcd",
+      "pincode": "110088",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "id": 4
+    }
+  ]
+}
