@@ -1,0 +1,10 @@
+In this particular project we learn to make a resume on base of the personal details, educational details, slkill and your address etc.
+With the particular flow at the end we are able to make a resume which will show in resume file where you can edit the information as well.
+
+In the same project there is another two file register.js and userlist.js (userlist2.js) In this particular we are filling up the details and it will show in the userlist, from where we can download the indivial and all data in the PDF and word file.
+
+In this project same concept of save and edit we are using.
+
+in Register example we are using concept of generate PDF file and word file. here we learn about validation.
+
+for pdf ---- import Pdf from "react-to-pdf";
